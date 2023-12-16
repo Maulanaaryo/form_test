@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975314281355",
+    "project_id": "tes-navios",
+    "storage_bucket": "tes-navios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975314281355:android:5c8cbfcdabbf32c215058e",
+        "android_client_info": {
+          "package_name": "com.example.mobile_tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGtJldMuD06-l_sUf5UBEwlPPJ_zZ-wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
